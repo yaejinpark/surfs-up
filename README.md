@@ -32,6 +32,7 @@ More analysis on other parts of provided data can further help this analysis. Tw
 
 From glance, there seems to be more differences in precipitation data than there are in temperature data. Let's see if that holds up by looking at both dataframes' statistical summary:
 
-![June PRCP Summary](https://github.com/yaejinpark/surfs-up/blob/main/resources/june_summary.png)
+![June PRCP Summary](https://github.com/yaejinpark/surfs-up/blob/main/resources/june_prcp_summary.png)
 
 ![December PRCP Summary](https://github.com/yaejinpark/surfs-up/blob/main/resources/dec_prcp_summary.png)
+
