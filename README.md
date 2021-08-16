@@ -36,3 +36,4 @@ From glance, there seems to be more differences in precipitation data than there
 
 ![December PRCP Summary](https://github.com/yaejinpark/surfs-up/blob/main/resources/dec_prcp_summary.png)
 
+The differences in precipitation are more clear, as expected. Although similar temperatures have been recorded during June and December, it seems December has higher precipitation and might be needed to taken into consideration for business operation in Oahu.
